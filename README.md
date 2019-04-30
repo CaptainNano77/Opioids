@@ -1,3 +1,5 @@
 # Opioids
-This repository (work in progress) contains analysis of opioid prescribers in the USA
-I am trying to focus specifically on Emergency Room doctors within the state of New Mexico.
+This repository (My Current Project!) contains analysis of opioid prescribers in the USA
+My goal is to predict which medical professionals would be considered "opioid prescriber's" based on features such as gender, degree, and a list of different prescribed pharmaceuticals. 
+
+I hope to then merge these with other analysis of an overdose database...
