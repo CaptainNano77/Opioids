@@ -20,4 +20,4 @@ DATA:
 2) prescriber_clean.csv: The cleaned prescriber data. Has the degrees formatted and the such (the work I did in the 1st notebook (Opioids.ipynb)
 3) prescriber_top100drug.csv: The prescriber data that is cleaned and only contains the top 100 drug features.
 4) opioids.csv: List of the drugs and names
-5) overdoses.csv: The data that I am now hoping to merge with this "prescriber" work to see if there are overdose correlations, etc.
+5) overdoses.csv: The data that I am now hoping to merge with this "prescriber" work to see if there are overdose correlations, etc...
